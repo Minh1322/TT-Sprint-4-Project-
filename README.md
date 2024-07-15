@@ -8,3 +8,5 @@ pandas==2.2.2
 plotly-express==0.4.1
 scipy==1.14.0
 streamlit==1.36.0
+
+The app can be viewed on: https://tt-sprint-4-project-xufi.onrender.com
