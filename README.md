@@ -7,3 +7,4 @@ pandas==2.2.2
 plotly-express==0.4.1
 scipy==1.14.0
 streamlit==1.36.0
+
